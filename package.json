@@ -10,6 +10,25 @@
     "type": "git",
     "url": "git+https://github.com/jaskarancodes/type-checker.git"
   },
+  "keywords": [
+    "types",
+    "type",
+    "check",
+    "type-check",
+    "type-checker",
+    "typechecker",
+    "isBoolean",
+    "isObject",
+    "isNull",
+    "isDate",
+    "isFunction",
+    "isRegExp",
+    "isArray",
+    "isNumber",
+    "isString",
+    "isUndefined",
+    "isSymbol"
+  ],
   "author": "Jaskaran Singh",
   "license": "MIT",
   "bugs": {
