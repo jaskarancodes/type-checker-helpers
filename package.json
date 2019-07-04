@@ -1,0 +1,24 @@
+{
+  "name": "type-checker",
+  "version": "1.0.0",
+  "description": "JavaScript library to check data types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaskarancodes/type-checker.git"
+  },
+  "author": "Jaskaran Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaskarancodes/type-checker/issues"
+  },
+  "homepage": "https://github.com/jaskarancodes/type-checker#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.0"
+  }
+}
