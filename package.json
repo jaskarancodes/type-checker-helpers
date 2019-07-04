@@ -1,5 +1,5 @@
 {
-  "name": "type-checker",
+  "name": "type-checker-helpers",
   "version": "1.0.0",
   "description": "JavaScript library to check data types",
   "main": "index.js",
@@ -20,5 +20,6 @@
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.2.0",
     "eslint-plugin-import": "^2.18.0"
-  }
+  },
+  "dependencies": {}
 }
