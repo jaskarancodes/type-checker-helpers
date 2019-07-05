@@ -1,14 +1,14 @@
-import isArray from './helpers/isArray';
-import isBoolean from './helpers/isBoolean';
-import isDate from './helpers/isDate';
-import isFunction from './helpers/isFunction';
-import isNull from './helpers/isNull';
-import isNumber from './helpers/isNumber';
-import isObject from './helpers/isObject';
-import isRegExp from './helpers/isRegExp';
-import isString from './helpers/isString';
-import isSymbol from './helpers/isSymbol';
-import isUndefined from './helpers/isUndefined';
+import isArray from './source/isArray';
+import isBoolean from './source/isBoolean';
+import isDate from './source/isDate';
+import isFunction from './source/isFunction';
+import isNull from './source/isNull';
+import isNumber from './source/isNumber';
+import isObject from './source/isObject';
+import isRegExp from './source/isRegExp';
+import isString from './source/isString';
+import isSymbol from './source/isSymbol';
+import isUndefined from './source/isUndefined';
 
 export {
     isArray,
