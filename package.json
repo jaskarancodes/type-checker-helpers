@@ -1,6 +1,6 @@
 {
   "name": "type-checker-helpers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript library to check data types",
   "main": "index.js",
   "scripts": {
